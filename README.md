@@ -18,9 +18,9 @@ Installation Steps
 
 Start the server
 ================
-php app/console server:run
+execute: php app/console server:run
 
-open browser to http://http://127.0.0.1:8000/
+open browser to http://127.0.0.1:8000/
 
 
 

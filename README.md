@@ -5,6 +5,7 @@ Redis training
 Requirements:
 
 1- Redis server
+
 2- Git and composer
 
 Installation Steps

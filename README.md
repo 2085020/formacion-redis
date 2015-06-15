@@ -4,14 +4,18 @@ Redis training
 Index
 =====
 1- What is redis?
-2- 
-3- Make queries in command line mode
-4- PHP in action
+
+2- Make queries in command line mode
+
+3- PHP in action with redis
+
+4- Exercices
+
 
 Requirements
 ============
 
-1- Redis server
+1- Redis server / redis client
 2- Git
 3- Composer
 

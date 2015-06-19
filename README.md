@@ -15,9 +15,9 @@ Index
 Requirements
 ============
 
-1- Redis server / redis client
-2- Git
-3- Composer
+1- Redis server / redis client  
+2- Git  
+3- Composer  
 
 Installation Steps
 ===================

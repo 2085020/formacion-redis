@@ -37,5 +37,5 @@ open browser to http://127.0.0.1:8000/
 Vagrant
 =======
 
-you can also start vagrant
+you can also start vagrant  
 vagrant up

@@ -48,4 +48,4 @@ Exercices
 3. insert 10 elements into a list and pop them FIFO
 4. Use a hash to save data from a user (name, surname, email, telf)
 5. Implement the load of stock of 10 products product_PK 1 to 10 by random value between 10 and 20
-6. Implement 2 functions to add or remove 1 or more values of this stock
+6. Implement 2 functions to add or remove 1 or more values of this stock.
